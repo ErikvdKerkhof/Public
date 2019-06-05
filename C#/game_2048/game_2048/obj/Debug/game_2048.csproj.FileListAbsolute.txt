@@ -1,0 +1,7 @@
+C:\Users\Erik van de Kerkhof\source\repos\game_2048\game_2048\obj\Debug\game_2048.csproj.CoreCompileInputs.cache
+C:\Users\Erik van de Kerkhof\source\repos\game_2048\game_2048\bin\Debug\game_2048.exe.config
+C:\Users\Erik van de Kerkhof\source\repos\game_2048\game_2048\bin\Debug\game_2048.exe
+C:\Users\Erik van de Kerkhof\source\repos\game_2048\game_2048\bin\Debug\game_2048.pdb
+C:\Users\Erik van de Kerkhof\source\repos\game_2048\game_2048\obj\Debug\game_2048.exe
+C:\Users\Erik van de Kerkhof\source\repos\game_2048\game_2048\obj\Debug\game_2048.pdb
+C:\Users\Erik van de Kerkhof\source\repos\game_2048\game_2048\obj\Debug\game_2048.csprojAssemblyReference.cache
